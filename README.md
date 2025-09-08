@@ -127,19 +127,19 @@ plt.show()
 ```
 
 ### Dataset Information
-<img width="658" height="486" alt="image" src="https://github.com/user-attachments/assets/ffa6da20-be85-477f-af8e-c9aa8b398460" />
+<img width="970" height="667" alt="Screenshot 2025-09-08 211756" src="https://github.com/user-attachments/assets/7a79cdbd-b2b8-4881-b450-9d302cafac00" />
 
 
 ### OUTPUT
 ### Training Loss Vs Iteration Plot
-<img width="617" height="436" alt="image" src="https://github.com/user-attachments/assets/766f70fb-778f-45b6-a098-3e6c2d1bba01" />
+<img width="760" height="542" alt="Screenshot 2025-09-08 211808" src="https://github.com/user-attachments/assets/0c1b7c86-8c1c-4211-8ff5-6d019a925ea8" />
 
 ### Best Fit line plot
-<img width="699" height="453" alt="image" src="https://github.com/user-attachments/assets/07d0eada-2812-4796-8f81-a468ec8cffd5" />
 
+<img width="730" height="585" alt="Screenshot 2025-09-08 211816" src="https://github.com/user-attachments/assets/eb254334-2795-49cb-af28-60587332253d" />
 
 ### New Sample Data Prediction
-<img width="437" height="65" alt="image" src="https://github.com/user-attachments/assets/0e081506-183f-4190-8f0a-f86b8ba69bc0" />
+<img width="723" height="80" alt="Screenshot 2025-09-08 211824" src="https://github.com/user-attachments/assets/92dbad29-29c2-4e4b-8734-019a6c05ee22" />
 
 
 ## RESULT
